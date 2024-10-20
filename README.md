@@ -13,9 +13,9 @@ Orientada a Servicios (AWOS), a traves de una Aplicaciones Web en una Arquitectu
 
   ## Historial de Practicas 
 
-  |No.|Descripcion|potenciador|Estatus|
+  |No.|Fecha|Descripcion|Potenciador|Estatus|
   |--|--|--|--|--|
-  |8.|17/10/2024|Nuevo Repositorio del Proyecto implementando .gitignore|1| Activa ⭐
+  |8.|17/10/2024|Nuevo Repositorio del Proyecto implementando .gitignore|1| Activa ⭐|
 
 ## Autor 
 Unidad 2
